@@ -1,2 +1,2 @@
 Example file
-hi
+hi/2
